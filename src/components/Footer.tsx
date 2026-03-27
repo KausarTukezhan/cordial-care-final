@@ -5,7 +5,7 @@ const socialLinks = [
   {
     icon: Instagram,
     label: "Instagram",
-    href: "https://www.instagram.com/kydyrova_moldir1?igsh=MXVmMnMyMDd1YzY1dQ%3D%3D&utm_source=qr",
+    href: "https://www.instagram.com/zhomart.moldir.official?igsh=MXVmMnMyMDd1YzY1dQ%3D%3D&utm_source=qr",
   },
   {
     icon: Send,

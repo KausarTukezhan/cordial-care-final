@@ -148,7 +148,7 @@ const translations = {
   "kyowon.title": { EN: "Kyowon Exclusive Partner", RU: "Эксклюзивный партнёр Kyowon", KZ: "Kyowon эксклюзивті серіктесі" },
   "kyowon.desc": { EN: "The only exclusive partner of Kyowon in Kazakhstan and Central Asia", RU: "Единственный эксклюзивный партнёр Kyowon в Казахстане и Центральной Азии", KZ: "Қазақстан мен Орталық Азиядағы Kyowon-ның жалғыз эксклюзивті серіктесі" },
 // Секция сравнения
-"compare.title": { RU: "Честная игра", KZ: "Әділ ойын", EN: "Fair Play" },
+"compare.title": { RU: "Стабильность и доверие", KZ: "Тұрақтылық пен сенім", EN: "Stability and Trust" },
 "compare.subtitle": { 
   RU: "Чем Cordial Care отличается от 90% других компаний", 
   KZ: "Cordial Care-дің басқа компаниялардан айырмашылығы", 
